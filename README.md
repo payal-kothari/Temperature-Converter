@@ -4,4 +4,4 @@
 
 
 
-# Link to the project : https://people.rit.edu/~pak4180/TemperatureConverter/src/Index.html
+# Link to the project : https://people.rit.edu/pak4180/TemperatureConverter/
