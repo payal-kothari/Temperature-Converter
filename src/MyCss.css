@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 2%;
+}
+
+#Celsius {
+    margin-left: 25%;
+    border-color: black;
+}
+
+#Fahrenheit {
+    margin-left: 15.5%;
+    border-color: black;
+}
+
+#LabelDiv {
+    margin-top: 10%;
+}
+
+#TempDiv {
+    margin-top: 2%;
+}
+
+#CelsiusDiv {
+    margin-left: 25%;
+
+}
+
+#FahrenheitDiv {
+    margin-left: 20%;
+}
